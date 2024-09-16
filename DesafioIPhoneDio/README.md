@@ -11,8 +11,8 @@ Repositório para armazenar exercícios do bootcamp de Java com SpringBoot da [D
 |   HABILIDADES | IMPLEMENTAÇÃO |
 | ------|---------|
 | POO | Criei objetos para poder implementar as interfaces e classes do projeto e utilizar seus metódos|
-|CONTROLE DE FLUXO| Utilizei uma variável booleana e também um while para permitir que o usuário possar interagir com o sistema do celular quantas vezes desejar, e caso queira, possar desligar o aparelho,simulando um aparelho real.|
-| MÉTODOS E PARÂMETROS |  Defini métodos dentro das interfaces, que por sua vez são abstratos e foram definidos dentro de uma classe `CelulariPhone`, que implementa as interfaces e por fim,definir um objeto `iphone` do tipo CelulariPhone dentro da classe `UsurioiPhone`, que é o valor de cada objeto do tipo de cada interface. Assim,creio que pude representar o sistema do celular com suas funcionalidades separadas em pacotes diferentes.|
+|CONTROLE DE FLUXO| Utilizei uma variável booleana e um laço while que permite o usuário interagir com o sistema do celular quantas vezes desejar, e caso queira, possa desligar o aparelho,simulando um dispositivo real.|
+| MÉTODOS E PARÂMETROS |  Defini métodos dentro das interfaces, que são abstratos por natureza, e foram definidos dentro de uma classe `CelulariPhone`, que implementa as interfaces e por fim,defini um objeto `iphone` do tipo CelulariPhone dentro da classe `UsurioiPhone`, que é o valor de cada objeto do tipo de cada interface. Assim,creio que pude representar o sistema do celular e a separação dessas funcionalidades em pacotes diferentes permitiu uma organização eficiente do projeto.|
 |Git| Utilizei a IDE Viscode, porém sincronizei e fiz o commit dos arquivos através do GitBash|
 
 
